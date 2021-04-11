@@ -7,4 +7,4 @@ NOTE:
 Durham VOCs Positivity will be updated on Wednesday's.
 
 
-It will be updated daily by 10:00PM EST
+It will be updated daily
