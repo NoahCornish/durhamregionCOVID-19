@@ -4,7 +4,7 @@ The repository now includes the vaccination data for the region.  It will be upd
 This data has been complied from the Durham Region COVID-19 Tracker and the Open Data site from the Region of Durham (Shapefiles).
 
 NOTE:
-Durham VOCs Positivity will be updated on Wednesday's.
+Durham VOCs Positivity file will be updated on Wednesday's to avoid extreme daily changes which have been occuring.
 
 
-It will be updated daily
+All other files will be updated daily
