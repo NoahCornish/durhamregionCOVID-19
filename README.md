@@ -5,6 +5,8 @@ This data has been complied from the Durham Region COVID-19 Tracker and the Open
 
 NOTE:
 Durham VOCs Positivity file will be updated on Wednesday's to avoid extreme daily changes which have been occuring.
+NOTE: 
+Durham R(t) values will be updated on Wednesday's 
 
 
 All other files will be updated daily
